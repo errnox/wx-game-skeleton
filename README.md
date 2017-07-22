@@ -1,4 +1,4 @@
-# 'WX' Shenanigans
+# WX Shenanigans
 
 This code demonstrates how `wxPython` could be abused to make a simple
 game.
